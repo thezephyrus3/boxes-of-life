@@ -51,8 +51,8 @@ It's a simple yet powerful visual representation of the finite nature of life—
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/life-calendar.git
-cd life-calendar
+git clone https://github.com/thezephyrus3/boxes-of-life.git
+cd boxes-of-life
 
 # Install dependencies
 bun install
